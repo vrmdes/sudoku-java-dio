@@ -16,4 +16,4 @@ Main.java
 Passe os argumentos do desafio DIO na configuração de execução do projeto.
 
 ## Autor
-Vagner Rafael Martins de Deus
+Vagner Rafael Marques de Deus
